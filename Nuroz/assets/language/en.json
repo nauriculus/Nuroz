@@ -1,0 +1,112 @@
+{
+  "homepage": {
+    "feeling": "How do you feel,",
+    "feeling2": "How do you feel?",
+    "nonewusers": "You made everybody's day much better!",
+    "welcome": "Welcome",
+    "loading": "Loading. Please wait...",
+    "welcomesub": "Just one step and you can start.",
+    "welcomenamefield": "What's your name?",
+    "welcomebutton": "Start Now!",
+    "welcometext": "We welcome you to Nuroz!",
+    "error": "Error",
+    "success": "Success",
+    "messagesent": "Your message has been sent!",
+    "groupjoined": "You successfully joined the group! 👥",
+    "statuschanged": "Your status has been changed!",
+    "statusnotchanged": "Your status was not changed!",
+    "networkerror": "Please check your connection!",
+    "invaildname": "The name you chose is invalid!",
+    "settingstitle": "Settings",
+    "cardInput": "Write this person something nice",
+    "statusgood": "Excellent",
+    "statusneutral": "Average",
+    "statussad": "Bad",
+    "writeamessage": "Please write a message!",
+    "nooptionselected": "Select an option!"
+
+  },
+  "settings": {
+    "title": "Settings",
+    "lang": "Choose a language",
+    "german": "German",
+    "french": "French",
+    "autotext": "Text Suggestion",
+    "deleteaccount": "Delete Account",
+    "english": "English",
+    "spanish": "Spanish"
+  
+
+  }
+  ,
+  "chat": {
+    "title": "Your Messages",
+    "nomessages": "No messages were found",
+    "lang": "en"
+
+  },
+  "groups": {
+    "title": "Group Overview",
+    "subtitle": "Your Groups",
+    "invitecode": "Invitation Code",
+    "leavegroup": "Leave",
+    "leavegrouptitle": "Leave This Group",
+    "noaccess": "Please contact the group administrator individually to access this information.",
+    "votedalready": "You already voted!",
+    "invitecodesub": "Enter your invitation code here.",
+    "invitecodetextfield": "Enter Code",
+    "joinbutton": "Join",
+    "groupResults": "Group Results",
+    "invaildcode": "The code is invalid!",
+    "alreadyingroup": "You are already in this group!",
+    "cantjoingroup": "Unable to join the group!",
+    "popupTitle": "Groups",
+    "groupInfo": "If you encounter any issues or have questions, please contact the administrator of your group or reach out to us directly.",
+    "popupText1": "This feature allows you to create connected and supportive groups. Individuals can anonymously share their state and provide valuable satisfaction feedback.",
+    "popupText2": "Create individual problem descriptions and positive messages to tailor a space for your members.",
+    "popupText3": "If interested, we look forward to hearing from you at:",
+    "popupEmail": "nuroz@binaramics.com",
+    "infotext": "Use an invitation link to join a group."
+  },
+
+  "profile": {
+    "title": "Profile Settings",
+    "modeswitch": "Private Mode",
+    "karmapoints": "Karma Points",
+    "namechangetitle": "Name Change",
+    "namechangeinput": "What is your new name?",
+    "subtitle": "Overview"
+  },
+  "status": {
+    "title": "Why do you feel so?",
+    "subtitle": "Categories",
+    "category1": "Health",
+    "category2": "Relationships",
+    "category3": "Life Changes",
+    "category4": "Purpose",
+    "buttonsubmit": "Submit",
+    "category5": "Stress & Anxiety",
+    "category6": "Self-esteem",
+
+    "option1": "Physical Health Problems",
+    "option2": "Mental Health Problems",
+    "option3": "Family Conflicts",
+    "option4": "Relationship Difficulties",
+    "option5": "Loneliness",
+    "option6": "Difficulties in Friendships",
+    "option7": "Moves and Adjustment Challenges",
+    "option8": "Loss of Family Members and Grief",
+    "option9": "Separations and Divorces",
+    "option10": "Coping with Existential Fears",
+    "option11": "Finding Meaning in Life",
+    "option12": "Spiritual Questions and Belief Systems",
+    "option13": "Stress Management",
+    "option14": "Anxiety Disorders",
+    "option15": "Burnout",
+    "option16": "Self-Worth Issues and Self-Doubt",
+    "option17": "Identity Questions and Self-Discovery",
+    "option18": "Self-Acceptance and Self-Love",
+
+    "infotext": "This information helps other users assist you better."
+  }
+}

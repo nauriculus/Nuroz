@@ -1,0 +1,120 @@
+{
+  "homepage": {
+    "feeling": "Wie fühlst du dich,",
+    "feeling2": "Wie fühlst du dich?",
+    "nonewusers": "Du hast den Tag für alle verbessert!",
+    "loading": "Lade Daten. Bitte warten...",
+    "welcome": "Willkommen",
+    "welcomesub": "Nur Einen Schritt Und Du Kannst Loslegen!",
+    "welcomenamefield": "Wie lautet dein Name?",
+    "welcomebutton": "Leg Los!",
+    "welcometext": "Wir begrüßen dich bei Nuroz!",
+    "error": "Fehler",
+    "success": "Erfolgreich",
+    "statuschanged": "Dein Status wurde geändert!",
+    "messagesent": "Deine Nachricht wurde versendet!",
+    "groupjoined": "Du bist der Gruppe erfolgreich beigetreten! 👥",
+    "statusnotchanged": "Dein Status wurde nicht geändert!",
+    "networkerror": "Bitte überprüfe deine Verbindung!",
+    "invaildname": "Gebe bitte einen gültigen Namen ein!",
+    "cardInput": "Schreibe der Person etwas nettes",
+    "statusgood": "Sehr Gut",
+    "statusneutral": "Neutral",
+    "statussad": "Schlecht",
+    "writeamessage": "Schreib bitte eine Nachricht!",
+    "nooptionselected": "Wähle eine Option aus!"
+  },
+  "settings": {
+    "title": "Einstellungen",
+    "lang": "Wähle eine Sprache",
+    "german": "Deutsch",
+    "french": "Französisch",
+    "autotext": "Texte Vorschlagen",
+    "english": "Englisch",
+    "deleteaccount": "Account Löschen",
+    "spanish": "Spanisch"
+
+  },
+  "chat": {
+    "title": "Deine Nachrichten",
+    "nomessages": "Es wurden keine Nachrichten gefunden",
+    "lang": "de"
+
+  }
+
+  ,
+  "groups": {
+    "title": "Gruppenübersicht",
+    "subtitle": "Deine Gruppen",
+    "invitecode": "Einladungscode",
+    "votedalready": "Du hast heute schon abgestimmt!",
+    "noaccess": "Bitte kontaktiere den Gruppenadministrator, um Zugriff auf diese Informationen zu erhalten.",
+    "leavegroup": "Verlassen",
+    "leavegrouptitle": "Die Gruppe verlassen",
+    "groupResults": "Gruppenergebnisse",
+    "invitecodesub": "Gebe hier deinen Einladungscode ein.",
+    "invitecodetextfield": "Code eingeben",
+    "joinbutton": "Beitreten",
+    "invaildcode": "Der Code ist nicht gültig!",
+    "alreadyingroup": "Du bist bereits in dieser Gruppe!",
+    "cantjoingroup": "Der Gruppe konnte nicht beigetreten werden!",
+    "popupTitle": "Gruppen",
+  "popupText1": "Diese Funktion ermöglicht es vernetzte und unterstützende Gruppen zu erstellen. Personen können anonym ihren Zustand teilen und wertvolles Feedback zur Zufriedenheit geben.",
+  "popupText2": "Gestalten Sie individuelle Problembeschreibungen und positive Nachrichten, um einen maßgeschneiderten Bereich für Ihre Mitglieder zu schaffen.",
+  "popupText3": "Bei Interesse freuen wir uns auf Ihre Kontaktaufnahme unter:",
+  "popupEmail": "nuroz@binaramics.com",
+  "infotext": "Verwende einen Einladungscode, um beizutreten.",
+  "groupInfo": "Bei Problemen oder Rückfragen wende dich bitte an den Administrator deiner Gruppe, oder kontaktiere uns direkt."
+
+
+  }
+  ,
+  "profile": {
+    "title": "Profil Einstellungen",
+    "modeswitch": "Privater Modus",
+    "karmapoints": "Karma Punkte",
+    "namechangetitle": "Namensänderung",
+    "namechangeinput": "Wie lautet dein neuer Name?",
+    "subtitle": "Übersicht"
+
+
+  }
+
+  ,
+  "status": {
+    "title": "Warum fühlst du dich so?",
+    "subtitle": "Kategorien",
+    "buttonsubmit": "Absenden",
+    "category1": "Gesundheit",
+    "category2": "Beziehungen",
+    "category3": "Lebensveränderungen",
+    "category4": "Sinnfindung",
+    "category5": "Stress & Angst",
+    "category6": "Selbstwert",
+
+    "option1": "Körperliche Gesundheitsprobleme",
+    "option2": "Mentale Gesundheitsprobleme",
+    "option3": "Familienkonflikte",
+    "option4": "Partnerschaftsschwierigkeiten",
+    "option5": "Einsamkeit",
+    "option6": "Schwierigkeiten in Freundschaften",
+    "option7": "Umzüge und Anpassungsschwierigkeiten",
+    "option8": "Verlust von Angehörigen und Trauerbewältigung",
+    "option9": "Trennungen und Scheidungen",
+    "option10": "Bewältigung existenzieller Ängste",
+    "option11": "Sinnfindung im Leben",
+    "option12": "Spirituelle Fragen und Glaubenssysteme",
+    "option13": "Stressbewältigung",
+    "option14": "Angststörungen",
+    "option15": "Burnout",
+    "option16": "Selbstwertprobleme und Selbstzweifel",
+    "option17": "Identitätsfragen und Selbstfindung",
+    "option18": "Selbstakzeptanz und Selbstliebe",
+
+
+    "infotext": "Diese Informationen helfen anderen Nutzern dir besser zu helfen."
+
+
+  }
+
+}
