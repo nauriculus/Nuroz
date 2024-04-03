@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/nauriculus/Nuroz/assets/24634581/a6cc7ebc-c5b7-4d28-af7a-aae69d2eeecb" alt="icon" width="200"/>
 </p>
+
 # Nuroz
 
 - Your private health app for well-being and compassion. Share emotions, receive personalized help, and spread positivity anonymously. Group function for team support. Earn karma points and track achievements.
